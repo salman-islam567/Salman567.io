@@ -6,16 +6,18 @@
 body{
     background-image: url(https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg);
     background-repeat: no-repeat;
-    width: 1000PX;
+    width: 900PX;
     height: 1000PX;
+    text-align: center;
+    margin: 6% auto;
 }
 #admin-box{
-    width: 40%;
+    width: 45%;
     text-align: center;
     border: 2px solid aqua;
-    margin-left: 70%;
+    margin: 10% auto;
     border-radius: 10px;
-    margin-top: 3%;
+    margin-top: 1%;
     background-color: rgba(128, 128, 128, 0.678);
     padding-top: 30px;
 }
@@ -23,7 +25,7 @@ body{
     width: 50%;
     text-align: center;
     border: 2px solid aqua;
-    margin-left: 62%;
+    margin: 10% auto;
     margin-top: 3%;
     border-radius: 10px;
     background-color: rgba(128, 128, 128, 0.678);
